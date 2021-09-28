@@ -1,4 +1,4 @@
-package aserto-lightning-demo.GET.api.protected
+package asertolightningdemo.GET.api.protected
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
